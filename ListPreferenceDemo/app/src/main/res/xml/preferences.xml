@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<ListPreference
+    android:key="lp_android_choice"
+    android:entries="@array/array_lp_entries"
+    android:entryValues="@array/array_lp_entry_values"
+    android:title="@string/str_lp_android_choice_title"
+    />
+</PreferenceScreen>

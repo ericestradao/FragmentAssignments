@@ -1,0 +1,22 @@
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">ListPreferenceDemo</string>
+
+    <string name="str_lp_android_choice_title">Choose your Android Version</string>
+
+    <string-array name="array_lp_entries">
+        <item>Jelly Bean</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Honey Comb</item>
+        <item>Ginger Bread</item>
+        <item>Froyo</item>
+    </string-array>
+
+    <string-array name="array_lp_entry_values">
+        <item>Jelly Bean</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Honey Comb</item>
+        <item>Ginger Bread</item>
+        <item>Froyo</item>
+    </string-array>
+</resources>

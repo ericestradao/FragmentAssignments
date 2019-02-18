@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">OpenAlertDialog</string>
+    <string name="str_tv_about">An Alert Dialog Demo</string>
+    <string name="str_btn_quit">Quit</string>
+
+</resources>
